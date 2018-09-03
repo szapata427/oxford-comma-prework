@@ -10,5 +10,5 @@ def oxford_comma(array)
     array.join(", ")
     array.push(last)
   end
-  return str
+   str
 end
